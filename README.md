@@ -25,7 +25,6 @@ This data analytics project explores customer shopping behavior across **3,900 p
 | `customer_shopping_behavior_analysis.ipynb` | Data exploration, cleaning, and feature engineering in Python |
 | `customer_behavior_sql_queries.sql` | SQL queries addressing business questions |
 | `customer_behavior_dashboard.pbix` | Power BI dashboard file |
-| `Customer-Shopping-Behavior-Analysis.pptx` | Project presentation and key takeaways |
 | `Customer Shopping Behavior Analysis Document.pdf` | Supporting project document |
 
 ## Workflow
